@@ -4,6 +4,8 @@ View obj files (AR/VR).
 
 ## Run
 
+Place the model in [./public/model/model.obj](./public/model/model.obj).
+
 ```bash
 pnpm install
 
